@@ -1,6 +1,6 @@
 # HOSTED
 
-Link:-  https://charanreddy404-contact-list.netlify.app/
+Link:-  https://conatctlist.onrender.com
 
 
 # Getting Started with Create React App
